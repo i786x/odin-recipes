@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+
+* {
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#firsttitle {
+    font-size: 40px;
+}
